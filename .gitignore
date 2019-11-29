@@ -1,0 +1,42 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+
+# IDE Files #
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+
+# Generic log files #
+*.log
+*.mul
+# Mako files  #
+makofiles
+dist
+build
+bin
+4cc.checksum
+ebay.log
+*.class
+target/
+test-output/
+build.xml
+ebay-build.xml
+/.metadata
+dist
+build
+bin
+rebel.xml
+/tests/
+/coverage/
+/cobertura.ser
+*/temp_persist_config_*.xml
+*/src/main/resources/buildinfo.properties
+
+*/bluefinFiles/
+*/jawsFiles/
